@@ -122,6 +122,4 @@ export default function Home() {
   )
 }
 
-/
-// Try editing the page (text, images, URLs) discover
-// Try copying some objects (Image), try search stuff up online to see how to use it (search "Image next.js how to use")
+
