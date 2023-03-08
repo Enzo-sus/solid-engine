@@ -98,7 +98,7 @@ export default function Home() {
               Templates <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+               boilerplate Next.js&nbsp;projects.
             </p>
           </a>
 
@@ -121,3 +121,7 @@ export default function Home() {
     </>
   )
 }
+
+/
+// Try editing the page (text, images, URLs) discover
+// Try copying some objects (Image), try search stuff up online to see how to use it (search "Image next.js how to use")
