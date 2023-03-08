@@ -57,8 +57,8 @@ export default function Home() {
               height={31}
               priority
             /> <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
         <
         div className = { styles.grid } >
@@ -78,8 +78,7 @@ export default function Home() {
         Image src = "Images/tinykerbalvirues.jpg"
         fill sizes = "(max-width: 768px) 100vw,
         (max - width: 1200 px) 50 vw,
-        33 vw " /
-        >
+        33 vw " / >
         <a
             href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
@@ -103,8 +102,8 @@ export default function Home() {
             </h2> <
         p className = { inter.className } >
         boilerplate Next.js & nbsp; projects. <
-        /p> <
-        /a>
+        /p> < /
+        a >
 
         <
         a href = "https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -115,10 +114,10 @@ export default function Home() {
             </h2> <
         p className = { inter.className } >
         Instantly deploy your Next.js site to a shareable URL with & nbsp; Vercel. <
-        /p> <
-        /a> <
-        /div> <
-        /main> <
+        /p> < /
+        a > <
+        /div> < /
+        main > <
         />
     )
 }
