@@ -77,7 +77,7 @@ export default function Home() {
           </a> <
         Image src = "/tinykerbalvirus.jpg"
         fill sizes = "(max-width: 768px) 100vw,
-        (max - width: 1200 px) 50 vw,
+        (max - width: 120 px) 50 vw,
         33 vw " / > <
         a href = "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
         className = { styles.card } target = "_blank"
@@ -119,3 +119,5 @@ export default function Home() {
         />
     )
 }
+
+
