@@ -75,7 +75,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a> <
-        Image src = "/tinykerbalvirues.jpg"
+        Image src = "/tinykerbalvirus.jpg"
         fill sizes = "(max-width: 768px) 100vw,
         (max - width: 1200 px) 50 vw,
         33 vw " / > <
