@@ -53,7 +53,7 @@ export default function Home() {
         <Image
               src="/thirteen.svg"
               alt="13"
-              width={40}
+              width={4}
               height={31}
               priority
             /> <
@@ -76,7 +76,9 @@ export default function Home() {
             </p>
           </a> <
         Image src = "/tinykerbalvirus.jpg"
-        fill sizes = "(max-width: 768px) 100vw,
+        width = {200}
+        height = {100}
+        sizes ="(max-width: 768px) 100vw,
         (max - width: 120 px) 50 vw,
         33 vw " / > <
         a href = "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -119,5 +121,6 @@ export default function Home() {
         />
     )
 }
+
 
 
