@@ -46,7 +46,7 @@ export default function Home() {
             src="/snail.jpg"
             alt="Next.js Logo"
             width={180}
-            height={37}
+            height={100}
             priority
           /> <
         div className = { styles.thirteen } >
@@ -106,7 +106,7 @@ export default function Home() {
         a >
 
         <
-        a href = "https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        a href = "https://www.youtube.com/watch?v=jYMjLgPFSso"
         className = { styles.card } target = "_blank"
         rel = "noopener noreferrer" >
         <h2 className={inter.className}>
