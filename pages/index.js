@@ -82,10 +82,11 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              Minecraft <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities.
+There are four actively maintained editions of Minecraft: Java Edition, Bedrock Edition, Minecraft Education, and China Edition.
             </p>
           </a><
         Image src = "/tinykerbalvirus.jpg"
