@@ -105,3 +105,14 @@ a {
     color-scheme: dark;
   }
 }
+.rotate{animation: rotation 1s infinite linear;
+transform-origin:top left;
+}
+@keyframes rotation{
+  from{
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(359deg);
+  }
+}
