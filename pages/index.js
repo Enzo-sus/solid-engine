@@ -42,7 +42,6 @@ export default function Home() {
         <
         div className = { styles.center } >
         <Image
-            className={styles.logo}
             src="/snail.jpg"
             alt="Next.js Logo"
             width={180}
